@@ -26,4 +26,4 @@ Step4: Appropriately label the data set with descriptive variable names
 all_data - It has all the datasets
 
 Step5: Create a second, independent tidy data set with the average of each variable, for each activity and each subject
-averages_data - It is the data set which contains
+averages_data - It is the data set which contains average of each variable, for each activity and each subject
